@@ -33,7 +33,7 @@
 ![前台界面演示](static/gite1.png)
 
 #### 联系开发者
-- ![开发者微信]![kaifa8898](pages/git2.png)
+- ![开发者微信]![kaifa8898](static/git2.png)
 - 开发者微信：kaifa8898 备注来意。
 
 #### 软件架构
