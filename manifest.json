@@ -17,7 +17,7 @@
             "delay" : 0
         },
         /* 模块配置 */
-        "modules" : {
+        "modules" : { 
             "VideoPlayer" : {},
             "Camera" : {}
         },

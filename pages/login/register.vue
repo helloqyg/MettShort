@@ -7,7 +7,7 @@
  * @Copyright: by 南阳迈特网络科技有限公司 禁止任何形式（包含二次开发）转售系统源码，违者必究。
 -->
 
-
+ 
 <template>
 	<view class="page_content">
 		<view class="head_content">

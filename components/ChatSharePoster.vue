@@ -6,7 +6,7 @@
  * @LastEditTime: 2023-08-16 09:16:18
  * @Copyright: by 南阳迈特网络科技有限公司 禁止任何形式（包含二次开发）转售系统源码，违者必究。
 -->
-
+ 
 
 <template>
 	<view class="ChatSharePoster">
